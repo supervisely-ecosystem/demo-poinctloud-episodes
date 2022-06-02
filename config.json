@@ -1,0 +1,12 @@
+{
+  "name": "Demo pointcloud episodes",
+  "description": "Project with pointcloud episodes",
+  "type": "project",
+  "categories": [
+    "import",
+    "pointclouds",
+    "project"
+  ],
+  "icon": "https://i.imgur.com/NgDOQ8R.png",
+  "icon_cover": true
+}
